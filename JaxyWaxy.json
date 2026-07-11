@@ -1,0 +1,17 @@
+{
+  "name": "Cutie Jaxy",
+  "description": "I love you Jaxon",
+  "authors": [
+    {
+      "name": "Cezy",
+      "id": "1"
+    }
+  ],
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/1262945664304812134/1485776078961250314/20240928_213426.jpg?ex=6a52cbcd&is=6a517a4d&hm=cabd58d4f0df4362dd0dcd31ef1987a7f8530ceb2b577ab8fde6a179917557fe",
+    "blur": 0.27,
+    "alpha": 0.5,
+    "size": "cover",
+    "position": "center"
+  }
+}
